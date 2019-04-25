@@ -1,0 +1,27 @@
+.login_container {
+    width: 369px;
+    position: absolute;
+    left: 101px;
+    top: 100px;
+}
+
+.login_label {
+    font-family: "Marker";
+    font-size: 50px;
+    color: rgb(243, 242, 242);
+    margin-right: 10px;
+}
+
+.login_input {
+    font-family: "Marker";
+    font-size: 30px;
+    color: rgb(243, 242, 242);
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid rgb(243, 242, 242);
+}
+
+@font-face {
+    font-family: "Marker";
+    src: url("../Fonts/PermanentMarker.ttf");
+  }

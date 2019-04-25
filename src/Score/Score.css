@@ -1,0 +1,26 @@
+.score_container {
+    position: relative;
+    top: -138px;
+    right: -103px;
+}
+
+.score_text {
+    font-size: 61px
+}
+
+.score_winnerText{
+    margin-top: -82px;
+    margin-left: 156px;
+    font-size: 100px;
+}
+
+.score_next {
+    font-size: 44px;
+    position: relative;
+    top: -121px;
+}
+
+@font-face {
+    font-family: "Marker";
+    src: url("../Fonts/PermanentMarker.ttf");
+  }

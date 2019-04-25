@@ -1,0 +1,32 @@
+.highscore_container {
+    position: relative;
+    left: 534px;
+    top: 140px;
+}
+
+table {
+    border: none;
+    border-collapse: collapse;
+    width: 297px;
+    height: 165px;
+    color: rgb(243, 242, 242);
+    font-family: "Marker"
+}
+
+.playerTitle {
+    font-size: 50px;
+    border: none;
+    border-right: 3px solid rgb(243, 242, 242);
+}
+
+.playerScore {
+    font-size: 50px;
+    width: 100px;
+    border: none;
+    border-right: 3px solid rgb(243, 242, 242);
+}
+
+@font-face {
+    font-family: "Marker";
+    src: url("../Fonts/PermanentMarker.ttf");
+  }
